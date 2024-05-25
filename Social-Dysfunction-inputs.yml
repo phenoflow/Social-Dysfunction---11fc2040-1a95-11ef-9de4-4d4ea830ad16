@@ -1,0 +1,24 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/psychopathy-social-dysfunction---primary.py
+inputModule3:
+  class: File
+  path: python/social-dysfunction-mutism---primary.py
+inputModule4:
+  class: File
+  path: python/social-dysfunction-attachment---primary.py
+inputModule5:
+  class: File
+  path: python/institutional-social-dysfunction---primary.py
+inputModule6:
+  class: File
+  path: python/social-dysfunction-childhood---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
